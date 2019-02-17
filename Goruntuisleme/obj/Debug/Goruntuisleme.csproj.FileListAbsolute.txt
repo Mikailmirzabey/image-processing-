@@ -1,0 +1,15 @@
+C:\Users\mayki\Documents\Visual Studio 2012\Projects\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.exe
+C:\Users\mayki\Documents\Visual Studio 2012\Projects\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.pdb
+C:\Users\mayki\Documents\Visual Studio 2012\Projects\Goruntuisleme\Goruntuisleme\bin\Debug\AForge.dll
+C:\Users\mayki\Documents\Visual Studio 2012\Projects\Goruntuisleme\Goruntuisleme\bin\Debug\AForge.Imaging.dll
+C:\Users\mayki\Documents\Visual Studio 2012\Projects\Goruntuisleme\Goruntuisleme\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\mayki\Documents\Visual Studio 2012\Projects\Goruntuisleme\Goruntuisleme\bin\Debug\AForge.Video.dll
+C:\Users\mayki\Documents\Visual Studio 2012\Projects\Goruntuisleme\Goruntuisleme\bin\Debug\AForge.Vision.dll
+C:\Users\mayki\Documents\Visual Studio 2012\Projects\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.Form1.resources
+C:\Users\mayki\Documents\Visual Studio 2012\Projects\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.Properties.Resources.resources
+C:\Users\mayki\Documents\Visual Studio 2012\Projects\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.csproj.GenerateResource.Cache
+C:\Users\mayki\Documents\Visual Studio 2012\Projects\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.exe
+C:\Users\mayki\Documents\Visual Studio 2012\Projects\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.pdb
+C:\Users\mayki\Documents\Visual Studio 2012\Projects\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.csprojResolveAssemblyReference.cache
+C:\Users\mayki\Desktop\tasarım projesı\cokönemli\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.exe
+C:\Users\mayki\Desktop\tasarım projesı\cokönemli\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.pdb
